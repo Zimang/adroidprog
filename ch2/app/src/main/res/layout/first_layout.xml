@@ -9,4 +9,19 @@
         android:layout_height="wrap_content"
         android:text="Button 1"
         />
+    <Button
+        android:id="@+id/button_15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="点击测试隐式intent"/>
+    <Button
+        android:id="@+id/button_16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="更多隐式调用itent"/>
+    <Button
+        android:id="@+id/button_17"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="传递数据给跳转页面"/>
 </LinearLayout>
