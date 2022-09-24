@@ -11,5 +11,9 @@
         android:layout_height="wrap_content"
         android:id="@+id/button_3"
         android:text="data隐式intent"/>
-
+    <Button
+        android:id="@+id/button_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="直接退出"/>
 </LinearLayout>
