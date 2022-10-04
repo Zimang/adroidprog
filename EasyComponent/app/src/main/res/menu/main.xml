@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/AlertDialog"
+        android:title="AlertDialog"
+        />
+    <item
+        android:id="@+id/MainActivity"
+        android:title="Main"
+        />
+    <item
+        android:id="@+id/ProgressDialog"
+        android:title="ProgressDialog"
+        />
+</menu>
